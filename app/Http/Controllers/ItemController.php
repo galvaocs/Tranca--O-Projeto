@@ -15,7 +15,4 @@ class ItemController extends Controller{
     public function ItemUpdate() {
 
     }
-    public function ItemDelete() {
-
-    }
 }
